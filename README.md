@@ -1,92 +1,31 @@
-### Hi there, Usama Memon here 😍 
+<h1 align="center">Hi 👋, I'm usama</h1>
+<h3 align="center">A passionate full Stack developer from Pakistan</h3>
 
-    
-### Student Life
-    I did my matriculation and Intermediate from Higher Secondary School in Ghazi Ghat Pakistan... 
-    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaa12&label=Profile%20views&color=0e75b6&style=flat" alt="usamaa12" /> </p>
 
-###  Professional Side:
-    I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
-    Mean-while Software Engineer at Idea 2 Product Software Company in Sukkur Pakistan. 
-    After having a handsome experience from a reputed software house, now I have my own best team and startup of more than 10 developers contributing and providing services 
-    with mentioned technologies below
->   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
-    For backend, I use **Java(Spring boot)**, **Spring boot Microservices (Load Balancers etc)**
-    I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
-### My Work and projects
-    * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend service.
-    * POS Product deployed in more than 5 places in Markeet.
-    * Accounting Management for Real Estate Business Deployed in more than 3 places
-    * Deployed one project in the academic sector to solve the problem of thousands of students.
-    * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
-### Company Site 
-    🔗 [Fahad's Company Website](https://www.fastechsystem.com/)
-    
-### Portfolio    
-    🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaa12" alt="usamaa12" /></a> </p>
 
-### Technologies I am working with:
-    👉   Spring (Java)
-            Spring Framework(Java)
-            Spring boot Microservices
-            Hysterics Cloud Services
-            Apache Kafka
-            API Gateway
-            Load Balancers
-            SOAP-based Web Services
-            Spring Core MVC
-            Aspect Oriented Programming
-            Spring Security 
-            Centralized Logging System
-            Swagger
-            Thymeleaf based Server Side Applications
-            JSP based server side spring boot application
-    👉	Blockchain
-            Ethereum Smart Contract Developer
-            IPFS
-            Sanity
-            Solidity
-            Opensea Marketplace NFT Minting
-            Standard ERC-721 for NFT
-            DAPs development with React Js and Next.js with ETH and other currencies 
-    👉	Front End
-            HTML5
-            CSS ======> SASS Framework
-            Bootstrap 5
-            Javascript
-                React.Js with Redux
-                    Next.Js framework for Server Side Enterprise Application Development
-    👉  Mobile
-            Flutter
-    👇 Tools:
-    👉	JDK 1.8, 11, 17, 18
-    👉	Databases
-            * MySQL Community Server
-            * PostgreSQL Server
-            * SQL Server
-            * MongoDB Server for NoSQL Document-based Projects
-            * PhpMyAdmin
-    👉  Version Control
-            Github
-            Bitbucket
-            Jira for Software Project Management
-    👉  Development IDEs
-            JetBrains IntelliJ Idea (Community Edition)
-            Netbeans
-            Visual Studio Code
-            Eclipse 
-    👉  APIs Testing Tools
-            Postman Client
-            Swagger
-    👉 Database Designing
-            Figma
-            Create
-            UML
-                 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
-<br/>
- ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
-![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=fahad-qureshi786)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad-qureshi786&show_icons=true&theme=dark)  
-![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
-![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-qureshi786)  
+<p align="left"> <a href="https://twitter.com/usamaoye" target="blank"><img src="https://img.shields.io/twitter/follow/usamaoye?logo=twitter&style=for-the-badge" alt="usamaoye" /></a> </p>
+
+- 💬 Ask me about **HTML,CSS,JavaScript,React**
+
+- 📫 How to reach me **usamamemon971@gmail.com**
+
+- ⚡ Fun fact **I think Iam funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/usamaoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamaoye" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/usama-memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usama-memon" height="30" width="40" /></a>
+<a href="https://fb.com/usama memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usama memon" height="30" width="40" /></a>
+<a href="https://instagram.com/usama_memon3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usama_memon3" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaa12&show_icons=true&locale=en&layout=compact" alt="usamaa12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaa12&show_icons=true&locale=en" alt="usamaa12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaa12&" alt="usamaa12" /></p>

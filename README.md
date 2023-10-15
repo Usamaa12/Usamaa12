@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/usamaoye" target="blank"><img src="https://img.shields.io/twitter/follow/usamaoye?logo=twitter&style=for-the-badge" alt="usamaoye" /></a> </p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React**
+- 💬 Ask me about **HTML,CSS,Bootstrap,JavaScript,React**
 
 - 📫 How to reach me **usamamemon971@gmail.com**
 
